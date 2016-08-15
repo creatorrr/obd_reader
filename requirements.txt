@@ -1,3 +1,4 @@
+--index-url https://pypi.python.org/simple/
 docopt==0.6.2
 hbmqtt==0.7.3
 obd==0.6.1
