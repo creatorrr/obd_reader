@@ -1,0 +1,3 @@
+[submodule "obdgpslogger"]
+	path = obdgpslogger
+	url = git@github.com:creatorrr/obdgpslogger.git
