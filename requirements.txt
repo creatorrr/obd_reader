@@ -1,10 +1,15 @@
 --index-url https://pypi.python.org/simple/
 docopt==0.6.2
 hbmqtt==0.7.3
+influxdb==3.0.0
 obd==0.6.1
 passlib==1.6.5
 Pint==0.7.2
 pyserial==3.1.1
+python-dateutil==2.5.3
+pytz==2016.6.1
 PyYAML==3.11
+requests==2.11.0
+six==1.10.0
 transitions==0.2.5
 websockets==3.1
