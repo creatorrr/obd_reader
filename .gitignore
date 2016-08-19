@@ -1,1 +1,3 @@
 pty_name.txt
+__pycache__
+*.pyc
