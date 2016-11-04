@@ -1,7 +1,10 @@
---index-url https://pypi.python.org/simple/
+aiohttp==1.0.5
+async-timeout==1.1.0
+chardet==2.3.0
 docopt==0.6.2
 hbmqtt==0.7.3
 influxdb==3.0.0
+multidict==2.1.2
 obd==0.6.1
 passlib==1.6.5
 Pint==0.7.2
